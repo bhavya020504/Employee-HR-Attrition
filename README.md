@@ -2,7 +2,7 @@
 This project analyzes employee attrition using SQL, Python, Machine Learning, and Power BI.
 The goal was to understand which factors influence employees leaving the company and to create a small predictive model.
 
-SQL Work Done
+1 SQL Work Done
 
 I performed the initial data analysis using SQL:
 
@@ -21,9 +21,10 @@ Salary, gender, and experience summaries
 Basic HR-related insights using SELECT & GROUP BY
 
 2 PYTHON Work Done
+
 After SQL analysis, I cleaned and prepared the dataset in Python.
 
-✔ Steps I Did
+✔ Steps I Did :
 
 Loaded the HR dataset into pandas
 
@@ -41,11 +42,11 @@ Overtime → 0/1
 
 Department → One-Hot Encoding
 
-Machine Learning Work Done
+3 Machine Learning Work Done
 
 I built a simple logistic regression model to predict attrition.
 
-✔ What I Did
+✔ What I Did :
 
 Split the data into training and testing
 
@@ -53,7 +54,7 @@ Trained a logistic regression model
 
 Evaluated accuracy, confusion matrix, and classification report
 
-✔ Result I Got
+✔ Result I Got :
 
 Because the dataset was very small:
 
